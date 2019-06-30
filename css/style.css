@@ -59,6 +59,7 @@ body {
     width: 100%;
     background-color: rgba(0, 0, 0, .25);
     border: 0;
+    
 }
 
 .navbar .navbar-toggler {
@@ -67,10 +68,18 @@ body {
 
 .navbar .navbar-brand {
     font-weight: bold;
+    font-family: 'Alegreya Sans SC', sans-serif;
+
+
+
+
+
+    
 }
 
 .navbar .navbar-nav a {
     font-weight: bold;
+    
 }
 
 
